@@ -1,0 +1,35 @@
+body {
+    margin:0;
+    
+    /* font size gets adjusted to all the elements in body */
+    font-size:21px;
+}
+
+header {
+    background-color:slategray;
+    color:white;
+    padding:25px 0;
+    text-align:center;
+}
+
+.intro {
+    /* border: solid 1px hotpink; */
+    padding: 75px 0;
+    text-align: center;
+}
+
+.my-skills{
+    text-align:center;
+}
+
+.columns{
+   border:1px solid black;
+   background-color:steelblue;
+   text-align: center;
+   display:flex;
+}
+
+.column{
+    padding:15px;
+    text-align: left;
+}
